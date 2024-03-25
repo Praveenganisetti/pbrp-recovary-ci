@@ -1,7 +1,10 @@
 env:
     # Twrp Sync Repositor
     TWRP_SYNC: https://github.com/PitchBlackRecoveryProject/manifest_pb.git
-
+    
+    # Telegram
+    TG_CHAT_ID: 1119385461
+    TG_TOKEN: 2044609608:AAE-lWE9ZXhcLVcWKj5F4DMDYFU7eFIQOm0
 
     # Config
     CONFIG: config.sh
