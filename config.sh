@@ -2,7 +2,7 @@
 
 # Device
 export TWRP_BRANCH="android-11.0"
-export DT_LINK="https://github.com/gitclone-url/android_device_micromax_E7544 -b PBRP-11"
+export DT_LINK="https://github.com/Praveenganisetti/android_device_micromax_E7544.git -b PBRP-11"
 
 export DEVICE="E7544"
 export OEM="micromax"
